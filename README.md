@@ -1,1 +1,1 @@
-# Visual representation od Covid19-dataset india 
+# Visual representation of Covid19-dataset india 
