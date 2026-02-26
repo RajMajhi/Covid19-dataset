@@ -33,13 +33,12 @@ Covid19-dataset/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook
 
 ---
@@ -106,7 +105,7 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Raj Majhi**
 
