@@ -109,6 +109,3 @@ Feel free to fork the repository and submit a pull request.
 
 **Raj Majhi**
 
----
-
-If you want, I can also create a **more professional resume-level README** or a **beginner-friendly simple version** depending on your goal (placements, open-source, or portfolio).
